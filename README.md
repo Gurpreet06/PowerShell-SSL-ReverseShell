@@ -9,7 +9,7 @@ This is a reverse shell written in PowerShell that uses SSL communications betwe
 - #### Ncat
 ```bash 
 
-❯ ncat --ssl -lnvp 4646
+❯ rlwrap ncat --ssl -lnvp 4646
 
 ```
 
