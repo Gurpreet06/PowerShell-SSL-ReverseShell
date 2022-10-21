@@ -1,5 +1,5 @@
 # PowerShell-SSL-ReverseShell
-This is a reverse shell written in PowerShell that uses SSL communications between the attacker's machine and the victim's machine. Made with inspiration from [samratashok/nishang Invoke-PowerShellTcp.ps1](https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1) and [PoweShell: Encrypt TCP Client-Server Traffic with a self-signed X509 Certificate](https://cyberwardog.blogspot.com/2016/08/poweshell-encrypt-tcp-client-server.html)
+This is a reverse shell written in PowerShell that uses SSL communications between the attacker's machine and the victim's machine. Made with inspiration from [samratashok/nishang Invoke-PowerShellTcp.ps1](https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1) and [PowerShell-reverse-shell](https://github.com/martinsohn/PowerShell-reverse-shell)
 
 
 ## Usage
