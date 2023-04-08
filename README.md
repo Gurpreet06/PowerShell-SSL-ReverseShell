@@ -1,6 +1,7 @@
 # PowerShell-SSL-ReverseShell
-This is a reverse shell written in PowerShell that uses SSL communications between the attacker's machine and the victim's machine. Most of the code from [samratashok/nishang Invoke-PowerShellTcp.ps1](https://github.com/samratashok/nishang/blob/master/Shells/Invoke-PowerShellTcp.ps1) and [PowerShell-reverse-shell](https://github.com/martinsohn/PowerShell-reverse-shell)
+PowerShell SSL Reverse Shell is a reverse shell program written in PowerShell, which establishes a connection between the attacker's machine and the victim's machine using SSL communications. This tool can be used to remotely access a compromised system, allowing the attacker to execute commands and exfiltrate data from the victim's machine.
 
+The code used to build "PowerShell SSL ReverseShell" is based on "Invoke-PowerShellTcp.ps1" from "samratashok/nishang," a popular collection of PowerShell scripts used for penetration testing and offensive security purposes and [PowerShell-reverse-shell](https://github.com/martinsohn/PowerShell-reverse-shell). The reverse shell program leverages the secure SSL protocol to establish a connection between the attacker and victim, ensuring that the communication between the two machines is encrypted and protected from interception by third parties.
 
 ## Usage
 
